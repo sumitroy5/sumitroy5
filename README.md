@@ -1,5 +1,5 @@
 ![MasterHead](https://repository-images.githubusercontent.com/189740832/ab1de400-ffe4-11e9-95ed-21adbb3f5d91)
-<h1 align="center">Hi 👋, I'm Sumit roy</h1>
+<h1 align="center">Hi 👋, I'm Sumit Roy</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/6304f407692989e8cf58e801/633369cb5313cf4b78208c16__2.gif"
 
